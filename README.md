@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikshrestha
 - 👀 I’m interested in fish keeping.
-- 🌱 I’m currently learning React JS along with Full Site Editing.
+- 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on WordPress or any other JS
 - 📫 How to reach me pratikshrestha911@gmail.com
 
